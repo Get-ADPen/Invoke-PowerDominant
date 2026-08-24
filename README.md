@@ -55,6 +55,8 @@ Custom offensive PowerShell collection for internal Windows enumeration, privile
 
 - _SwissArmy-Enum.ps1_ `::` General-purpose enumeration script covering system info, network config, users, groups, and common misconfigs in one pass.
 
+- _ShutterBlue.ps1_ `::` Post-exploitation kit, turn of the Defense mechanism.
+
 ---
 
 ## Python (Extra) Tools
