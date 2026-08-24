@@ -57,6 +57,8 @@ Custom offensive PowerShell collection for internal Windows enumeration, privile
 
 - _ShutterBlue.ps1_ `::` Post-exploitation kit, turn of the Defense mechanism.
 
+- _TokenAudit.ps1_ `::` This script audits token privileges and group memberships to identify potential security risks and escalation paths.
+
 ---
 
 ## Python (Extra) Tools
