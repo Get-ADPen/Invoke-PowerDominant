@@ -59,6 +59,8 @@ Custom offensive PowerShell collection for internal Windows enumeration, privile
 
 - _TokenAudit.ps1_ `::` This script audits token privileges and group memberships to identify potential security risks and escalation paths.
 
+- _Com-HijackMap.ps1_ `::` This tool does the correlation dynamically against your actual running environment and outputs ready-to-paste registration commands.
+
 ---
 
 ## Python (Extra) Tools
