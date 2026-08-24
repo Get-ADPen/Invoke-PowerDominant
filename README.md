@@ -61,6 +61,10 @@ Custom offensive PowerShell collection for internal Windows enumeration, privile
 
 - _Com-HijackMap.ps1_ `::` This tool does the correlation dynamically against your actual running environment and outputs ready-to-paste registration commands.
 
+- _AuthCoerce.ps1_ `::` NTLM coercion by planting files into writable Active Directory shares, allowing for hash capture or relay. It includes options for cleanup and targeting specific hosts or file types.
+
+- _AutoBadSuccessor.ps1_ `::` The Automated BadSuccessor privilege escalation kit.
+
 ---
 
 ## Python (Extra) Tools
